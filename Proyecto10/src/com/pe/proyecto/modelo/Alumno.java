@@ -5,6 +5,7 @@ public class Alumno {
     private double promedionota;
     private String apellido;
     private int nota;
+    private int edad;
 	
 	
 	
